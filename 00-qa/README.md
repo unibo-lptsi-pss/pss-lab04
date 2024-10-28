@@ -17,5 +17,6 @@
     Non è necessario scrivere più metodi di quanti ce ne siano già nella classe originale.
     I principi di incapsulamento, in ogni caso, valgono sempre.
     È possibile quindi fare cambiamenti sensati se si notano imperfezioni nel codice.
-* Solo una volta sistemata la classe, aggiungere [Checkstyle](https://unibo-lptsi-pss.github.io/08a-codestyle/#/15) al progetto, e verificare se sono state rispettate tutte le convenzioni.
-    * In caso negativo capire l'errore e riprovare fino a raggiungere il successo. 
+* Solo una volta sistemata la classe, aggiungere [Checkstyle](https://unibo-lptsi-pss.github.io/07a-codestyle/#/15) al progetto, e verificare se sono state rispettate tutte le convenzioni;
+  * Si può utilizzare il file checkstyle fornito nelle slide, [link veloce](https://raw.githubusercontent.com/DanySK/gradle-java-qa/refs/heads/master/src/main/resources/org/danilopianini/javaqa/checkstyle.xml);
+  * In caso negativo capire l'errore e riprovare fino a raggiungere il successo. 
