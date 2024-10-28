@@ -20,4 +20,3 @@
 * Solo una volta sistemata la classe, aggiungere [Checkstyle](https://unibo-lptsi-pss.github.io/07a-codestyle/#/15) al progetto, e verificare se sono state rispettate tutte le convenzioni;
   * Si possono utilizzare i file forniti in questo repository (cartella `checkstyle-files`) ;
   * Se i controlli non passano, capire quali sono i problemi e correggerli.
-
