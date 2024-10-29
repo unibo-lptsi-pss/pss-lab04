@@ -17,7 +17,7 @@ public class Test {
 //
 //        System.out.println("Kangaroo can't eat calico cat: " + !kangaroo.canEat(koratCat));
 //        System.out.println("Kangaroo can't eat siamese cat: " + !kangaroo.canEat(siameseCat));
-//        System.out.println("Kangaroo can eat vegetables: " + !kangaroo.canEatVegetables());
+//        System.out.println("Kangaroo can eat vegetables: " + kangaroo.canEatVegetables());
 //
 //        System.out.println("Squirrel can't eat calico cat: " + !squirrel.canEat(koratCat));
 //        System.out.println("Squirrel can't eat siamese cat: " + !squirrel.canEat(siameseCat));
