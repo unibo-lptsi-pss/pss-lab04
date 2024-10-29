@@ -22,7 +22,7 @@ Una volta modellato il sistema, si implementino correttamente tutte le classi.
 
 ## Fase 3
 
-Decommentare il metodoi `main` del file `Test.java` e testare il sistema eseguendo il programma utilizzando il corretto task di Gradle.
+Decommentare il metodo `main` del file `Test.java` e testare il sistema eseguendo il programma utilizzando il corretto task di Gradle.
 Tutti i controlli devono tornare `true`.
 
 __ATTENZIONE__:solo perché i test passano non significa che il codice sia perfetto.
