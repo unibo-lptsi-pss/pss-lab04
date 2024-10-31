@@ -1,11 +1,7 @@
 # Principio di incapsulamento
 
-**NOTA**: Da questo laboratorio in poi viene richiesto di effettuare un commit ogni volta che lo si trova opportuno.
-
-## Fase 1
-
 * Analizzare la classe `oop.lab03.encapsulation.Student`
-* È una versione modificata della classe vista negli scorsi laboratori.
+* È una versione modificata della classe vista la settimana scorsa
     - I campi sono ora privati: un client della classe non sarà mai influenzato dalla modifica di meri aspetti implementativi
     - Sono stati introdotti dei selettori per ottenere le proprietà dell'oggetto: `getName()`, `getSurname()`, ...
 * Si modifichino similmente le classi `Calculator` e `Smartphone` contenute nel package `oop.lab03.encapsulation`:
